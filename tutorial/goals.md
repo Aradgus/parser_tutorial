@@ -4,7 +4,7 @@
 
 ---
 
-WHat do we want to do and why do we want to do it?
+What do we want to do and why do we want to do it?
 
 Our goal is to create something similar to python's `eval()` function, but make it safe to use, as for example, a calculator.
 Aoyone who has spent some time with python knows that eval is very much the opposite from safe-to-use.
